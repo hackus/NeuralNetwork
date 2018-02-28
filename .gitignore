@@ -1,0 +1,7 @@
+.idea/
+*.log
+*.zip
+*.gz
+*.iml
+target/
+*.patch
